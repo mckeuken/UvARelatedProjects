@@ -7,3 +7,6 @@ of things MR project related.
 - CreateBoxesBasedOnCoordinates
 	This notebook takes a number of MNI coordinates and creates a nifti file that has a 
 	single voxel at that given coordinate.
+- DWIMrtrixPreprocessingPipeline
+	This notebook preprocesses the 3T DWI AHEAD dataset using the MRTrix pipeline steps
+
